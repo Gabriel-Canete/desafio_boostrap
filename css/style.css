@@ -1,0 +1,80 @@
+.body{
+    background-color: black;
+}
+
+/* HEADER/NAVBAR */
+.navbar-color{
+    background-color: magenta;
+}
+.navbar-brand img{
+    width: 90px;
+    height: 90px;
+}
+.navbar-nav a{
+    border: 3px solid black;
+    color: black;
+}
+
+
+
+/* CONTENIDO PRINCIPAL */
+.main{
+    background-color: black;
+    color: white    ;
+}
+.main span{
+    color: magenta;
+}
+.tamaño_foto{
+    height: 400px;
+    width: 600px;
+}
+
+.main img{
+    height: 400px;
+}
+.main form{
+    color: magenta;
+}
+
+.boton-color{
+    background-color: magenta;
+}
+.main h1 {
+    color: magenta;
+}
+
+.main h2 {
+    color: magenta;
+}
+
+.main h3 {
+    color: magenta;
+    font-size: small;
+}
+
+.carousel-padre{
+    width: 50vw;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+/* FOOTER */
+.footer-color{
+    background-color: magenta;
+}
+.my-4 {
+    margin-top: 3.5rem!important;
+    margin-bottom: 0.5rem!important;
+}
+
+.text-muted {
+    color: #141619!important;
+}
+.border-bottom {
+    border-bottom: var(--bs-border-width) var(--bs-border-style) #141619!important;
+}
