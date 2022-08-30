@@ -30,7 +30,7 @@
     padding-top: 150px;
 }
 .main span{
-    color: magenta;
+    color: rgb(242, 8, 191);
 }
 .tamaño_foto{
     width: 70vw;
@@ -40,28 +40,31 @@
     height: 400px;
 }
 .main form{
-    color: magenta;
+    color: rgb(242, 8, 191);
 }
 
 .boton-color{
-    background-color: magenta;
+    background-color: rgb(242, 8, 191);
 }
 .main h1 {
-    color: magenta;
+    color: rgb(242, 8, 191);
 }
 
 .main h2 {
-    color: magenta;
+    color: rgb(242, 8, 191);
 }
 
 .main h3 {
-    color: magenta;
+    color: rgb(242, 8, 191);
     font-size: small;
 }
 
 .carousel-padre{
     width: 50vw;
     margin: 0 auto;
+}
+.colorBoton{
+    background-color: rgb(242, 8, 191);
 }
 
 
@@ -71,7 +74,7 @@
 
 /* FOOTER */
 .footer-color{
-    background-color: magenta;
+    background-color: rgb(242, 8, 191);
 }
 .my-4 {
     margin-top: 3.5rem!important;
