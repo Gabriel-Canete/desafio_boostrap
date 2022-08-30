@@ -4,7 +4,7 @@
 
 /* HEADER/NAVBAR */
 .navbar-color{
-    background-color: magenta;
+    background-color: rgb(242, 8, 191);
 }
 .navbar-brand img{
     width: 90px;
@@ -23,11 +23,11 @@
 }
 
 
-
 /* CONTENIDO PRINCIPAL */
 .main{
     background-color: black;
-    color: white    ;
+    color: white;
+    padding-top: 150px;
 }
 .main span{
     color: magenta;
